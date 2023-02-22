@@ -1,0 +1,14 @@
+1.	Ingreso de nombre asegurado.
+2.	Se le pide la edad al asegurado.
+		Se verifica si es mayor de edad.
+			Si es mayor, se calcula el recargo por edad.
+			Si es menor, no puede optar por el seguro
+3.	Se le pide si está casado.
+		Si la respuesta es Si, se le pide la edad del cónyuge.
+			Se calcula el recargo por edad.
+4.	Se le pide si tiene hijos.
+		Si la respuesta es Si, Se le pide cuantos tiene.
+			Se calcula el recargo por los hijos.
+5.	Se suman todos los recargos.
+6.	Se le suma al precio base los recargos.
+7.	Se muestra la alerta con el nombre del asegurado, los recargos y el precio final.
